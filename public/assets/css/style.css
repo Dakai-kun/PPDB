@@ -1,0 +1,14 @@
+.sekolah-pdf{
+    margin-top: -10px;
+}
+h6{
+    margin-top: -10px;
+}
+.title{
+    background-color: lightslategray;
+}
+.teks2{
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+}
